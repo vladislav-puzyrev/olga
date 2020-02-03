@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d492b48217a9d2152c7818b4904c292",
+    "revision": "ee9ca587c1cbf7ca356763ca3608cc9b",
     "url": "/olga/index.html"
   },
   {
-    "revision": "fc31069254523d945d9b",
+    "revision": "c83f43b4c1c98d08cb1b",
     "url": "/olga/static/css/main.1e4fb050.chunk.css"
   },
   {
-    "revision": "247559a178dc354506db",
-    "url": "/olga/static/js/2.08b9fd1a.chunk.js"
+    "revision": "8cd12aaf319984700300",
+    "url": "/olga/static/js/2.0cd92d56.chunk.js"
   },
   {
     "revision": "64be437c74fd47fbfe0ef57becb73f7b",
-    "url": "/olga/static/js/2.08b9fd1a.chunk.js.LICENSE"
+    "url": "/olga/static/js/2.0cd92d56.chunk.js.LICENSE"
   },
   {
-    "revision": "fc31069254523d945d9b",
-    "url": "/olga/static/js/main.23875e72.chunk.js"
+    "revision": "c83f43b4c1c98d08cb1b",
+    "url": "/olga/static/js/main.f407aeea.chunk.js"
   },
   {
     "revision": "0e045de2868883d7d522",
