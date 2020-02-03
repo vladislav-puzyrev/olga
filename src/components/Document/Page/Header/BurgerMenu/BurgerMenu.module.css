@@ -1,0 +1,52 @@
+.wrapper {
+  cursor: pointer;
+  width: 35px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -2px;
+}
+
+.burgerMenu,
+.burgerMenu::before,
+.burgerMenu::after {
+  background-color: white;
+  width: 35px;
+  height: 3px;
+}
+
+.burgerMenu {
+  position: relative;
+}
+
+.burgerMenu::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  transition: 0.05s;
+}
+
+.burgerMenu::after {
+  content: '';
+  position: absolute;
+  top: 10px;
+  transition: 0.05s;
+}
+
+.burgerMenu.burgerMenuActive {
+  background-color: transparent;
+}
+
+.burgerMenu.burgerMenuActive::before {
+  transform: rotate(45deg);
+  top: 0;
+  transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
+}
+
+.burgerMenu.burgerMenuActive::after {
+  transform: rotate(-45deg);
+  top: 0;
+  transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
+}

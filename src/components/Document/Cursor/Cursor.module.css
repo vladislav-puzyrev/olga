@@ -1,0 +1,19 @@
+.cursor {
+  position: absolute;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: height 0.2s, width 0.2s;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid;
+}
+
+.dot {
+  background-color: white;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}

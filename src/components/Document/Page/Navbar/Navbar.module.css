@@ -1,0 +1,19 @@
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex-basis: 20%;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 1024px) {
+  .list {
+    flex-direction: row;
+    order: 2;
+  }
+
+  .wrapper {
+    flex-shrink: 1;
+  }
+}

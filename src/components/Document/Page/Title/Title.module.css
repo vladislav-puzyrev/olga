@@ -1,0 +1,23 @@
+.title {
+  flex-basis: 80%;
+  display: flex;
+  padding-bottom: 120px;
+
+  user-select: none;
+  background-image: url("../../../../img/slogan.png");
+  background-position: 0 80%;
+  background-size: 650px;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 1024px) {
+  .title {
+    order: 1;
+    justify-content: flex-start;
+    padding: 0;
+    align-items: center;
+
+    flex-grow: 1;
+    background-size: 100%;
+  }
+}

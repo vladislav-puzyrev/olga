@@ -1,0 +1,39 @@
+.aside {
+  z-index: 1;
+  position: absolute;
+  width: 0;
+  opacity: 0;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: url("../../../img/backgrounds/desc.png") no-repeat;
+  background-size: cover;
+  background-position: center center;
+  animation: open 0.5s forwards;
+  overflow: auto;
+}
+
+.wrapper {
+  margin: 100px 5% 0;
+  max-width: 400px;
+}
+
+.priceList {
+  background-image: url("../../../img/priceList.jpg");
+  min-width: 260px;
+  height: 460px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.p {
+  margin: 20px 0;
+}
+
+@keyframes open {
+  to {
+    width: 100%;
+    opacity: 1;
+    display: block;
+  }
+}
