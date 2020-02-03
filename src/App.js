@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter, Route, Switch} from "react-router-dom";
+import {BrowserRouter, HashRouter, Route, Switch} from "react-router-dom";
 import styles from './App.module.css';
 import WaterWave from 'react-water-wave';
 import image from './img/backgrounds/main.png';
@@ -51,9 +51,9 @@ class App extends React.Component {
 
     render() {
         return (
-            <BrowserRouter>
+            <HashRouter>
                 <Switch>
-                    <Route exact path='' render={() => (
+                    <Route exact path='/' render={() => (
                         <WaterWave onMouseMove={this.handleMouseMove}
                                    className={styles.page}
                                    imageUrl={image}
@@ -76,7 +76,7 @@ class App extends React.Component {
                         </div>
                     )}/>
                 </Switch>
-            </BrowserRouter>
+            </HashRouter>
         );
     }
 }
