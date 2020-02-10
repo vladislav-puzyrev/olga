@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee9ca587c1cbf7ca356763ca3608cc9b",
+    "revision": "b913de5deb147425d730990c3c5fdd7c",
     "url": "/olga/index.html"
   },
   {
-    "revision": "c83f43b4c1c98d08cb1b",
-    "url": "/olga/static/css/main.1e4fb050.chunk.css"
+    "revision": "55dec086dd7755807ff4",
+    "url": "/olga/static/css/2.1cc9201e.chunk.css"
   },
   {
-    "revision": "8cd12aaf319984700300",
-    "url": "/olga/static/js/2.0cd92d56.chunk.js"
+    "revision": "bdb3329e6330662d0658",
+    "url": "/olga/static/css/main.ab576a52.chunk.css"
+  },
+  {
+    "revision": "55dec086dd7755807ff4",
+    "url": "/olga/static/js/2.95d4cfaa.chunk.js"
   },
   {
     "revision": "64be437c74fd47fbfe0ef57becb73f7b",
-    "url": "/olga/static/js/2.0cd92d56.chunk.js.LICENSE"
+    "url": "/olga/static/js/2.95d4cfaa.chunk.js.LICENSE"
   },
   {
-    "revision": "c83f43b4c1c98d08cb1b",
-    "url": "/olga/static/js/main.f407aeea.chunk.js"
+    "revision": "bdb3329e6330662d0658",
+    "url": "/olga/static/js/main.467e80a5.chunk.js"
   },
   {
     "revision": "0e045de2868883d7d522",
