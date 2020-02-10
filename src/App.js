@@ -24,7 +24,7 @@ class App extends React.Component {
 
     handleMouseMove(event) {
         const target = event.target;
-        const newCoords = [event.clientX, event.clientY];
+        const newCoords = [event.pageX, event.pageY];
         const isActive = !!(target.dataset.cursorActive);
         const color = target.dataset.cursorActive || 'white';
 

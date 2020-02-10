@@ -5,6 +5,7 @@
   justify-content: space-evenly;
   flex-basis: 20%;
   align-items: flex-start;
+  max-height: 700px;
 }
 
 @media screen and (max-width: 1024px) {

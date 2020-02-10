@@ -15,7 +15,6 @@ function Header(props) {
                 props.asideOpen ||
                 <div className={styles.contacts}>
                     <div className={styles.icons}>
-                        <div className={styles.viber}/>
                         <div className={styles.whatsup}/>
                     </div>
                     <div className={styles.phone}>+79120499552</div>

@@ -5,6 +5,12 @@ import Cursor from "./Cursor/Cursor";
 import Aside from "./Aside/Aside";
 
 function Document(props) {
+    if (props.asideOpen) {
+        document.body.style.overflow = 'hidden';
+    } else {
+        document.body.style.overflow = 'auto';
+    }
+
     return (
         <React.Fragment>
             <Page asideOpenFunc={props.asideOpenFunc} asideOpen={props.asideOpen}/>
