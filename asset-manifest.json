@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/olga/static/css/main.ab576a52.chunk.css",
-    "main.js": "/olga/static/js/main.467e80a5.chunk.js",
-    "main.js.map": "/olga/static/js/main.467e80a5.chunk.js.map",
+    "main.js": "/olga/static/js/main.2eadcf61.chunk.js",
+    "main.js.map": "/olga/static/js/main.2eadcf61.chunk.js.map",
     "runtime-main.js": "/olga/static/js/runtime-main.b0ae316c.js",
     "runtime-main.js.map": "/olga/static/js/runtime-main.b0ae316c.js.map",
     "static/css/2.1cc9201e.chunk.css": "/olga/static/css/2.1cc9201e.chunk.css",
     "static/js/2.95d4cfaa.chunk.js": "/olga/static/js/2.95d4cfaa.chunk.js",
     "static/js/2.95d4cfaa.chunk.js.map": "/olga/static/js/2.95d4cfaa.chunk.js.map",
     "index.html": "/olga/index.html",
-    "precache-manifest.736f0ede1273bc40634fdd24c90c6a7d.js": "/olga/precache-manifest.736f0ede1273bc40634fdd24c90c6a7d.js",
+    "precache-manifest.5d8daca6a3d38e3a8aea1983ab779986.js": "/olga/precache-manifest.5d8daca6a3d38e3a8aea1983ab779986.js",
     "service-worker.js": "/olga/service-worker.js",
     "static/css/2.1cc9201e.chunk.css.map": "/olga/static/css/2.1cc9201e.chunk.css.map",
     "static/css/main.ab576a52.chunk.css.map": "/olga/static/css/main.ab576a52.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.1cc9201e.chunk.css",
     "static/js/2.95d4cfaa.chunk.js",
     "static/css/main.ab576a52.chunk.css",
-    "static/js/main.467e80a5.chunk.js"
+    "static/js/main.2eadcf61.chunk.js"
   ]
 }
