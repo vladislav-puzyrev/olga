@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79ab8473193a4169f12b079ee6697ff0",
+    "revision": "1fd3edfea01312c03e870180562403a0",
     "url": "/olga/index.html"
   },
   {
-    "revision": "55dec086dd7755807ff4",
+    "revision": "9fa06895e0c27cba4b98",
     "url": "/olga/static/css/2.1cc9201e.chunk.css"
   },
   {
-    "revision": "495b0e2c07039c728e8a",
-    "url": "/olga/static/css/main.ab576a52.chunk.css"
+    "revision": "fd4b16248789284d8a76",
+    "url": "/olga/static/css/main.08d9b867.chunk.css"
   },
   {
-    "revision": "55dec086dd7755807ff4",
-    "url": "/olga/static/js/2.95d4cfaa.chunk.js"
+    "revision": "9fa06895e0c27cba4b98",
+    "url": "/olga/static/js/2.f7b90443.chunk.js"
   },
   {
     "revision": "64be437c74fd47fbfe0ef57becb73f7b",
-    "url": "/olga/static/js/2.95d4cfaa.chunk.js.LICENSE"
+    "url": "/olga/static/js/2.f7b90443.chunk.js.LICENSE"
   },
   {
-    "revision": "495b0e2c07039c728e8a",
-    "url": "/olga/static/js/main.2eadcf61.chunk.js"
+    "revision": "fd4b16248789284d8a76",
+    "url": "/olga/static/js/main.2b37a5b6.chunk.js"
   },
   {
     "revision": "0e045de2868883d7d522",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f83b243afc4da93d29d2d87bd3e00a40",
     "url": "/olga/static/media/slogan.f83b243a.png"
-  },
-  {
-    "revision": "647ff8339d1229ac888f76eacc8f6047",
-    "url": "/olga/static/media/viber.647ff833.png"
   },
   {
     "revision": "6db49ff499b24eed8ee6be874d9cd090",
