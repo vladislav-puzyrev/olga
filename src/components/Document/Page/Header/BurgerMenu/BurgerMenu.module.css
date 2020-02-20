@@ -1,12 +1,15 @@
 .wrapper {
   cursor: pointer;
   width: 35px;
-  height: 20px;
+  height: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
   top: -2px;
+
+  background-color: transparent;
+  border: none;
 }
 
 .burgerMenu,
@@ -25,6 +28,7 @@
   content: '';
   position: absolute;
   top: -10px;
+  left: 0;
   transition: 0.05s;
 }
 
@@ -32,6 +36,7 @@
   content: '';
   position: absolute;
   top: 10px;
+  left: 0;
   transition: 0.05s;
 }
 
