@@ -53,7 +53,8 @@ class NavbarItem extends React.Component {
                    style={{color: this.props.color}}
                    data-cursor-active={this.props.color}
                    className={styles.text}
-                   to={this.props.path}>
+                   to={this.props.path}
+                   tabIndex="-1">
             {this.props.text}
           </NavLink>
         </li>
