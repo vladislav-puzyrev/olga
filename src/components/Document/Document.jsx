@@ -7,7 +7,7 @@ function Document(props) {
   if (props.asideOpen) {
     document.body.style.overflow = 'hidden';
   } else {
-    document.body.style.overflow = 'auto';
+    document.body.style['overflow-y'] = 'auto';
   }
 
   return (
