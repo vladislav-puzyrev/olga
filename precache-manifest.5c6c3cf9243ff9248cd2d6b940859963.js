@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fd3edfea01312c03e870180562403a0",
+    "revision": "8f15fec3687c984c77c7e72c6ab18114",
     "url": "/olga/index.html"
   },
   {
